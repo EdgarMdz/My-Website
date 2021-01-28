@@ -2,8 +2,4 @@
 
 this is a new website
 
-*editing on example branch*
-
-Editing from branch __Update-branch__ :+1:
-
-update locally
+Update made on main on GitHub before rebase
